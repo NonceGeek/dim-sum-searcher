@@ -1,10 +1,10 @@
-# 🏗 Bodhi AI Explorer
+# 🏗 Dim Sim Searcher
 
 <h4 align="center">
   <a href="https://smart-contract-explorer.movespace.xyz/"> -[ Lanuch App ]- </a>
 </h4>
 
-🧪 Bodhi AI Explorer 是一个基于向量化数据和智能合约的 Bodhi 内容搜索和去中心化内容标注 App。
+🧪 Dim Sim Searcher 是一个面向粤语语料的、AI 友好的新一代搜索引擎。
 
 
 ## Quickstart
