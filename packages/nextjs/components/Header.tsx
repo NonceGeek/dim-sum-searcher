@@ -18,8 +18,21 @@ export const menuLinks: HeaderMenuLink[] = [
     href: "/",
   },
   {
-    label: "AI Bot for Bodhi",
-    href: "https://arweave.noncegeek.com",
+    label: "AI Bot for Cantonese Learning",
+    href: "https://lang.rootmud.xyz",
+  },
+  {
+    label: "Prompt Manager",
+    href: "https://prompts.aidimsum.com",
+  },
+  // TODO: remember to change the domain.
+  {
+    label: "Cantonese Lib",
+    href: "https://aidimsum.com",
+  },
+  {
+    label: "About Lab",
+    href: "https://aidimsum.com",
   },
   // {
   //   label: "Tagger",
@@ -106,8 +119,8 @@ export const Header = () => {
             <Image alt="SE2 logo" className="cursor-pointer" fill src="/logo.svg" />
           </div>
           <div className="flex flex-col">
-            <span className="font-bold leading-tight">Bodhi AI Explorer</span>
-            <span className="text-xs">Search and Tag Bodhi Contents, powered by AI.</span>
+            <span className="font-bold leading-tight">Dim Sum AI Search Engine</span>
+            <span className="text-xs">Explore the possibility of the Cantonese.</span>
           </div>
         </Link>
         <ul className="hidden lg:flex lg:flex-nowrap menu menu-horizontal px-1 gap-2">

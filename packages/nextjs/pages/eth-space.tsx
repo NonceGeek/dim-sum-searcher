@@ -32,7 +32,7 @@ const ETHSpace: NextPage = () => {
                 <div className="hero-content text-center">
                     <div className="max-w-md">
                         <h1 className="text-5xl font-bold">ETH-SPACE</h1>
-                        <p className="py-6">Bodhi AI Explorer</p>
+                        <p className="py-6">Dim Sum Search Engine</p>
                         <div className="form-control mb-6">
                             <label className="label cursor-pointer">
                                 <span className="label-text text-2xl">Search in the Public Dataset</span>

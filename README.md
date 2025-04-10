@@ -1,7 +1,7 @@
 # 🏗 Dim Sim Searcher
 
 <h4 align="center">
-  <a href="https://smart-contract-explorer.movespace.xyz/"> -[ Lanuch App ]- </a>
+  <a href="https://search.aidimsum.com"> -[ Lanuch App ]- </a>
 </h4>
 
 🧪 Dim Sim Searcher 是一个面向粤语语料的、AI 友好的新一代搜索引擎。
@@ -9,7 +9,7 @@
 
 ## Quickstart
 
-如果您想快速体验我们的功能请通过：<a href="https://bodhi.movespace.xyz/">Lanuch App</a>
+如果您想快速体验我们的功能请通过：<a href="https://search.aidimsum.com">Lanuch App</a>
 
 ## Frontend
 ### Requirements
@@ -20,7 +20,7 @@ Before you begin, you need to install the following tools:
 - Yarn ([v1](https://classic.yarnpkg.com/en/docs/install/) or [v2+](https://yarnpkg.com/getting-started/install))
 - [Git](https://git-scm.com/downloads)
 
-To get started with Bodhi AI Explorer, follow the steps below:
+To get started with Dim Sum AI Explorer, follow the steps below:
 
 1. Clone this repo & install dependencies
 
